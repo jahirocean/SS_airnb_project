@@ -31,3 +31,10 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 # airbnb-demo
 
 ## You can see this Project [live](https://airbnb-demo-sage.vercel.app/)
+
+## Readme.md file writing Practise
+
+hello this is paragraph
+this is link [link](https://airbnb-demo-sage.vercel.app/)
+This is another link [`another-link`](https://airbnb-demo-sage.vercel.app/)
+This is button link [![This is Button](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://airbnb-demo-sage.vercel.app/)
